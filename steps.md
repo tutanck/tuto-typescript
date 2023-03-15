@@ -6,3 +6,4 @@
 # Using tsconfig.json
 
 - npx tsc
+- npx tsc --watch

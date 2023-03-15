@@ -1,0 +1,2 @@
+- npx tsc app.ts
+- npx tsc src/app.ts --outDir dist
